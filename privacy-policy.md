@@ -1,6 +1,6 @@
 # Chore Camp Privacy Policy
 
-_Effective date: 10/05/2026
+Effective date: 10/05/2026
 
 Chore Camp is a chore and allowance tracker for families. This policy explains what information the app handles and where it goes. The short version: **everything stays on your device. We don't collect, receive, sell or share any of your information.**
 
